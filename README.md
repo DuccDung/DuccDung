@@ -86,7 +86,7 @@ Information Technology major bringing a robust foundation in programming, networ
 
 ## CONTACT
 
-You can reach me through my [GitHub](https://github.com/DuccDung), or [LinkedIn](https://linkedin.com/in/ducdung).
+You can reach me through my [GitHub](https://github.com/DuccDung).
 
 ---
 
